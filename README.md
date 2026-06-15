@@ -11,9 +11,9 @@
 <br/>
 
 <!-- PROFILE VIEWS + FOLLOWERS -->
-<img src="https://komarev.com/ghpvc/?username=fazelnotgg&style=for-the-badge&color=ff4500&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=fazelllyyy&style=for-the-badge&color=ff4500&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/fazelnotgg?style=for-the-badge&color=ff4500&labelColor=1a0000&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/followers/fazelllyyy?style=for-the-badge&color=ff4500&labelColor=1a0000&label=FOLLOWERS" />
 
 </div>
 
@@ -69,13 +69,13 @@ const zulfazli = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fazelnotgg&show_icons=true&theme=dark&hide_border=true&bg_color=0d0000&title_color=ff4500&icon_color=ff6a00&text_color=ffccbc&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fazelnotgg&theme=dark&hide_border=true&background=0d0000&stroke=ff4500&ring=ff4500&fire=ff6a00&currStreakLabel=ff4500&sideLabels=ffccbc&dates=ffccbc&sideNums=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fazelllyyy&show_icons=true&theme=dark&hide_border=true&bg_color=0d0000&title_color=ff4500&icon_color=ff6a00&text_color=ffccbc&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=fazelllyyy&theme=dark&hide_border=true&background=0d0000&stroke=ff4500&ring=ff4500&fire=ff6a00&currStreakLabel=ff4500&sideLabels=ffccbc&dates=ffccbc&sideNums=ffffff" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazelnotgg&layout=compact&theme=dark&hide_border=true&bg_color=0d0000&title_color=ff4500&text_color=ffccbc&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazelnotgg&theme=dracula&utcOffset=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazelllyyy&layout=compact&theme=dark&hide_border=true&bg_color=0d0000&title_color=ff4500&text_color=ffccbc&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazelllyyy&theme=dracula&utcOffset=8" />
 
 </div>
 
@@ -90,7 +90,7 @@ const zulfazli = {
 -->
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fazelnotgg&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fazelllyyy&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
@@ -98,7 +98,7 @@ const zulfazli = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fazelnotgg&bg_color=0d0000&color=ff4500&line=ff6a00&point=ffffff&area=true&hide_border=true&area_color=3d0000" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fazelllyyy&bg_color=0d0000&color=ff4500&line=ff6a00&point=ffffff&area=true&hide_border=true&area_color=3d0000" />
 </div>
 
 ---
@@ -121,9 +121,9 @@ const zulfazli = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fazelnotgg/fazelnotgg/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fazelnotgg/fazelnotgg/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/fazelnotgg/fazelnotgg/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fazelllyyy/fazelllyyy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fazelllyyy/fazelllyyy/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/fazelllyyy/fazelllyyy/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
